@@ -9,7 +9,7 @@
 
 <div align="center"> 
   <a href="https://youtube.com/@malvintech2"> 
-    <img src="https://i.ibb.co/rRg9wTZV/malvin-xd.jpg" alt="STAR XD" height="300" style="border-radius:15px; box-shadow: 0 10px 30px rgba(0, 0, 255, 0.3);">
+    <img src="(https://i.ibb.co/67H81Gpk/IMG-3338.jpg)" height="300" style="border-radius:15px; box-shadow: 0 10px 30px rgba(0, 0, 255, 0.3);">
   </a> 
 </div>
 
