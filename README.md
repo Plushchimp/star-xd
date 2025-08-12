@@ -1,27 +1,27 @@
 
-# 🌟 STAR XD
+# 🥷🏻 ᴡʜɪᴛᴇ-ꜱᴀᴍᴜʀᴀɪ
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=STAR+XD;Multi+Device+WhatsApp+Bot;Made+By+Malvin+King" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=ᴡʜɪᴛᴇ ꜱᴀᴍᴜʀᴀɪ;Multi+Device+WhatsApp+Bot;Made+By+Ryan" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
   <a href="https://youtube.com/@malvintech2"> 
-    <img src="https://i.ibb.co/rRg9wTZV/malvin-xd.jpg" alt="STAR XD" height="300" style="border-radius:15px; box-shadow: 0 10px 30px rgba(0, 0, 255, 0.3);">
+    <img src="https://i.ibb.co/67H81Gpk/IMG-3338.jpg" alt="ᴡʜɪᴛᴇ-ꜱᴀᴍᴜʀᴀɪ" height="300" style="border-radius:15px; box-shadow: 0 10px 30px rgba(0, 0, 255, 0.3);">
   </a> 
 </div>
 
 ---
 
-## 🚀 Deploy Star XD in Minutes
+## 🚀 Deploy ᴡʜɪᴛᴇ-ꜱᴀᴍᴜʀᴀɪ in Minutes
 
 > 🌟 **DEPLOYMENT & STEPS** 🌟
 
 > 1: **Fork the Repository**
 
-_Click the button below to fork STAR XD repository to your GitHub account_
+_Click the button below to fork ᴡʜɪᴛᴇ-ꜱᴀᴍᴜʀᴀɪ repository to your GitHub account_
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tap+fork+button+Bellow+To+Fork;STAR+XD+REPO+On+Github)](https://git.io/typing-svg)
 <a href="https://github.com/XdKing2/star-xd/fork">
   <img src="https://img.shields.io/github/forks/XdKing2/star-xd?style=for-the-badge&logo=github&color=4c1&label=Fork%20star-xd" alt="Fork star-xd" />
@@ -140,7 +140,7 @@ _For further setup & guidance, click the button below🩹_
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <details>
-<summary>💡 About Star XD</summary>
+<summary>💡 About ᴡʜɪᴛᴇ-ꜱᴀᴍᴜʀᴀɪ</summary>
 
 
 Star XD is a fully-featured WhatsApp Multi-Device bot built on top of [Baileys](https://github.com/WhiskeySockets/Baileys). It’s designed to make group management easier, automate fun tasks, and integrate tools like Giphy for an enhanced messaging experience.
